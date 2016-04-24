@@ -65,6 +65,8 @@ header {
 
 header .logo {
   border-right: 1px solid #DCE0E0;
+  width: 120px;
+  height: auto;
 }
 
 .hero img {
@@ -92,6 +94,8 @@ header .logo {
 .info .owner-details img {
   border-radius: 50%;
   margin-bottom: 6px;
+  width: 300px;
+  height: auto;
 }
 
 .info h2.relatinship, .info h2.name {
